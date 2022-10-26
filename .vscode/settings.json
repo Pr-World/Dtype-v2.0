@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "SDLWin": "cpp",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "dtype.h": "c"
+    }
+}
